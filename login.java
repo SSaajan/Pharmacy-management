@@ -85,7 +85,7 @@ public class login extends JFrame {
 				String username = txtusername.getText();
 				String password = txtpass.getText();
 				
-				if(username.equals("Tejasvi") && password.equals("tejasvi17")){
+				if(username.equals("1805") && password.equals("dbmslab")){
 					mainUI UI1 = new mainUI();
 					setVisible(false);
 					UI1.setVisible(true);
